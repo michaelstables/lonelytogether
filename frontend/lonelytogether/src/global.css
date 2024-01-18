@@ -1,0 +1,6 @@
+body {
+    background-color: #E5E5E5; /* Gray color that complements the theme */
+    margin: 0; /* Remove default margin to fill the entire viewport */
+    font-family: "Tw Cen MT Condensed Extra Bold", Arial Narrow, sans-serif; /* Apply the desired font-family */
+    color: #fff; /* Set text color to contrast with the gray background */
+}
